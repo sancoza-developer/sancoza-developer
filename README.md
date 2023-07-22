@@ -2,7 +2,7 @@
 - 👀 I’m interested in making Web Page and App
 - 🌱 I’m currently learning React PHP 
 - 💞️ I'm glad you're on my page
-- 📫 You can write to sandrabalog.developer@gmail.com
+- 📫 You can write to sancoza.developer@gmail.com
 - 😎 Visit my portfolio site https://chipper-mousse-43d510.netlify.app/
 
 <!---
